@@ -1,0 +1,3 @@
+PhysXライブラリの[ Include ]と[ Lib ]にパスを通す。
+[ PhysX3CHECKED_x86.dll ]と[ PhysX3CommonCHECKED_x86.dll ]をプロジェクトに加える。
+
